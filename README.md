@@ -1,1 +1,12 @@
 # Azure-Administrator-Lab
+
+├── Virtual-Machines
+├── Virtual-Networks
+├── Network-Security-Groups
+├── Load-Balancer
+├── Azure-Storage
+├── Azure-Monitor
+├── Azure-Backup
+├── Azure-Resource-Groups
+├── Screenshots
+└── README.md

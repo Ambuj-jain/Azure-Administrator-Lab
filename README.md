@@ -1,5 +1,4 @@
 # Azure-Administrator-Lab
-
 ├── Virtual-Machines
 ├── Virtual-Networks
 ├── Network-Security-Groups

@@ -1,8 +1,6 @@
 # Azure-Administrator-Lab
-Azure-Administrator-Lab
-│
-├── Resource-Groups
-│   └── README.md
+Resource-Groups
+README.md
 ├── Virtual-Machines
 │   └── README.md
 ├── Azure-Networking
